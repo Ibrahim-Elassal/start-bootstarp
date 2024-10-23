@@ -1,0 +1,46 @@
+
+
+/* start navbar */
+.preview-bar span,
+.preview-bar .icon {
+color:rgb(144,147,152) ; 
+}
+.responsive-toggler button i {
+color:rgb(144,147,152) ; 
+}
+.responsive-toggler button {
+  trasnsition :all 0.7s ease;
+}
+.responsive-toggler button.active {
+width: 30px !importnat ; 
+height: 30px !importnat ; 
+border-radius: 50%;!importnat ; 
+padding: 15px ;
+background-color: rgb(211,212,214) !important ;
+}
+.responsive-toggler button:hover {
+  width: 30px !importnat ; 
+  height: 30px !importnat ; 
+  border-radius: 50%;!importnat ; 
+  padding: 15px ;
+  background-color: rgb(211,212,214) !important ;
+  }
+  .text-end button {
+    background-color : rgb(240,227,231);
+    border:none ;
+    color:rgb(220,57,45) ;
+    padding:-15px 
+  }
+  .btn-download i , .btn-download span {
+    color:rgb(220,57,45) ; 
+  }
+  .btn-download:hover  {
+    color:rgb(220,57,45) ; 
+    background-color : rgb(240,227,231);
+    border:none ;
+    color:rgb(220,57,45) ; 
+  }
+  .text-end .btn-sm {
+   color:rgb(144,147,152) ; 
+   background: none 
+  }
